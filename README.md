@@ -24,8 +24,8 @@ I'm a **Data Engineer** based in Boston 🏙️, currently wrapping up my **MS i
 
 Lately I've been going deep on **RAG, LLMs, and AI-powered data workflows** — where classic data engineering meets modern AI. Long-term I'm heading toward **ML engineering**, with data infrastructure as the foundation.
 
-- 🔭 Currently building: **Retail Sales Lakehouse** (Postgres CDC + S3 → Delta Lake → dbt → Airflow)
-- 🌱 Learning: **LangChain, LangGraph, vector DBs, agentic workflows**
+- 🔭 Currently exploring: **Agentic AI workflows and LLM-powered data tooling**
+- 🌱 Learning: **LangChain, LangGraph, vector DBs, MLOps**
 - 💬 Ask me about: **Snowflake, dbt, PySpark, AWS Glue, Azure Data Factory**
 - 🎯 Open to: **Data Engineer / Analytics Engineer / AI Engineer roles**
 - ⚡ Fun fact: **I love hiking and biking around New England on weekends 🥾🚴**
@@ -75,27 +75,36 @@ Lately I've been going deep on **RAG, LLMs, and AI-powered data workflows** — 
 
 | Project | Description | Stack |
 |---|---|---|
+### 🔧 Data Engineering
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛒 **[Walmart Sales Pipeline](https://github.com/SinghHritik9919/Walmart_Sales_Pipeline)** | CDC from Postgres + S3 → Delta Lake → dbt star schema → Airflow | Databricks, dbt, Airflow, PySpark |
+| 🚗 **[Vehicle Collision Analysis](https://github.com/SinghHritik9919/VehicleCollision_DataEnginneringProject)** | 3M+ records ingested into a dimensional warehouse with SCD Type 2 | ADF, Talend, Snowflake, Power BI |
+
+### 🤖 AI / RAG
+
+| Project | Description | Stack |
+|---|---|---|
 | 🏥 **[Healthcare RAG Bot](https://github.com/SinghHritik9919/HealthCare_RAG_BOT)** | Retrieval-augmented QA over healthcare insurance PDFs with citation verification | Bedrock, Titan Embeddings, FAISS, S3, Streamlit |
 | 📄 **[DocuFind AI](https://github.com/SinghHritik9919/DocuFind-_AI)** | Multi-format document + web QA system, benchmarked RAG vs non-RAG | Llama-3.2, FAISS, FireCrawl, Streamlit |
-| 🛒 **Retail Sales Lakehouse** | CDC from Postgres + S3 → Delta Lake → dbt star schema → Airflow | Databricks, dbt, Airflow, PySpark |
-| 💰 **Financial Analysis Chatbot** | RAG-based financial QA with real-time market data ingestion | GPT-4o, FAISS, Airflow, GCP Cloud Run |
-| 🚗 **Vehicle Collision Analysis** | 3M+ records ingested into a dimensional warehouse with SCD Type 2 | ADF, Talend, Snowflake, Power BI |
+| 💰 **[Financial Analysis Chatbot](https://github.com/SinghHritik9919/RAG_Based_Financial_Analysis_Chatbot)** | RAG-based financial QA with real-time market data ingestion | GPT-4o, FAISS, Airflow, GCP Cloud Run |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinghHritik9919&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SinghHritik9919&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghHritik9919&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghHritik9919&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghHritik9919&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SinghHritik9919&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SinghHritik9919&theme=tokyonight&no-frame=true&column=7&margin-w=15&cache_seconds=1800" alt="Trophies" />
 </p>
 
 ---
