@@ -92,23 +92,6 @@ Lately I've been going deep on **RAG, LLMs, and AI-powered data workflows** — 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinghHritik9919&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghHritik9919&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghHritik9919&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SinghHritik9919&theme=tokyonight&no-frame=true&column=7&margin-w=15&cache_seconds=1800" alt="Trophies" />
-</p>
-
----
-
 ## 🎓 Certifications
 
 <p align="left">
