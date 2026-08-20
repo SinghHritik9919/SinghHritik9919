@@ -105,7 +105,7 @@ Lately I've been going deep on **RAG, LLMs, and AI-powered data workflows** — 
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hritiksingh9919">
+  <a href="https://www.linkedin.com/in/hritik-singh9919/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:singh.hr@northeastern.edu">
@@ -114,7 +114,7 @@ Lately I've been going deep on **RAG, LLMs, and AI-powered data workflows** — 
   <a href="mailto:hritiksingh01@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
-  <a href="https://github.com/SinghHritik9919">
+  <a href="https://github.com/SinghHritik9919/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
