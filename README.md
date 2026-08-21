@@ -81,6 +81,7 @@ Lately I've been going deep on **RAG, LLMs, and AI-powered data workflows** — 
 |---|---|---|
 | 🛒 **[Walmart Sales Pipeline](https://github.com/SinghHritik9919/Walmart_Sales_Pipeline)** | CDC from Postgres + S3 → Delta Lake → dbt star schema → Airflow | Databricks, dbt, Airflow, PySpark |
 | 🚗 **[Vehicle Collision Analysis](https://github.com/SinghHritik9919/VehicleCollision_DataEnginneringProject)** | 3M+ records ingested into a dimensional warehouse with SCD Type 2 | ADF, Talend, Snowflake, Power BI |
+| 📊 **[Power BI Dashboards](https://github.com/SinghHritik9919/Power_BI_Dashboards)** | Paid media analytics ($54M revenue, 3 platforms) + 3.36M vehicle collision warehouse dashboards | Power BI, DAX, Snowflake, ADF, Tableau |
 
 ### 🤖 AI / RAG
 
