@@ -8,6 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SinghHritik9919&label=Profile%20views&color=38bdf8&style=flat" alt="profile views" />
+  <a href="https://singhhritik9919.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/hritik-singh9919/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -106,6 +109,9 @@ Lately I've been going deep on **RAG, LLMs, and AI-powered data workflows** — 
 ## 📬 Let's Connect
 
 <p align="center">
+  <a href="https://singhhritik9919.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/hritik-singh9919/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
