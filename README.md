@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SinghHritik9919&label=Profile%20views&color=38bdf8&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/hritiksingh9919/">
+  <a href="https://www.linkedin.com/in/hritik-singh9919/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:singh.hr@northeastern.edu">
